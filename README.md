@@ -2,10 +2,9 @@
 
 A small token to use in poker games or something.
 
-![Design capture](./Capture.png)
-![Board photo](./board-photo.jpg)
-
 Text drawn in Inkscape and PCB designed using [EasyEDA](https://easyeda.com/).
+
+<img width="50%" src="./Capture.png" alt="Design capture"/><img width="50%" src="./board-photo.jpg" alt="Board photo"/>
 
 ## Licence
 
