@@ -1,4 +1,4 @@
-# HDMI I²C breakout
+# Bhatia tokens
 
 A small token to use in poker games or something.
 
